@@ -5,7 +5,7 @@ execution_flow.py
 Simplified execution pipeline demonstrating the architecture of the
 Quantum System.
 
-This example intentionally omits any proprietary trading logic IN A VERY BASIC DEMO MANNER.
+This example intentionally omits any proprietary trading logic IN A VERY SIMPLIFIED BASIC DEMO MANNER.
 
 Its purpose is to demonstrate:
 

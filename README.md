@@ -38,8 +38,8 @@ The goal is to demonstrate how a modern fintech system can be designed for conti
 
 # Architecture
 
-```
 ![High level architecture chart](architecture.png)
+```
                     Exchange APIs
                  REST + WebSocket
                         │

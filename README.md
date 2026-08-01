@@ -78,6 +78,7 @@ The architecture is intentionally modular.
 
 Every subsystem owns a single responsibility while communicating through well-defined interfaces, making the system easier to evolve, test, and operate.
 
+![High level architecture chart](architecture.png)
 ---
 
 # Engineering Highlights
